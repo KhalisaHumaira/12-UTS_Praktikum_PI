@@ -1,0 +1,16 @@
+# Dataset (ukuran besar, tidak ikut repository). Folder tetap ada lewat .gitkeep
+datasets/*/*.csv
+datasets/*.csv
+
+# Hasil indexing
+index_dir/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor / sistem
+.vscode/
+.DS_Store
